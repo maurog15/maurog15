@@ -1,4 +1,4 @@
-### Hi there 👋2
+### Hi there 👋
 
 - 🔭 I’m currently working on Graphic Design and practicing HTML - CSS
 - 🌱 I’m currently learning Javascript
